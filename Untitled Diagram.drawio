@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T03:31:12.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.4.1" etag="IzAccVHsgiM5zLT6peiu" type="github"><diagram id="uCJE7dai_QeuuzSBfci7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T10:16:41.179Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="MYcJC1pNIJ5p6fXloYh4" version="20.4.1" type="github" pages="2">
+  <diagram id="uCJE7dai_QeuuzSBfci7" name="Page-1">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XtnB4oRw3btzMC0truvg-1" value="8.2 ===&amp;gt; 10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtnB4oRw3btzMC0truvg-2" value="FK : it is the relationship between 2 tables.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtnB4oRw3btzMC0truvg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="510" as="sourcePoint" />
+            <mxPoint x="270" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtnB4oRw3btzMC0truvg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="540" as="sourcePoint" />
+            <mxPoint x="410" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtnB4oRw3btzMC0truvg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="650" as="sourcePoint" />
+            <mxPoint x="270" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtnB4oRw3btzMC0truvg-10" value="DDL :(data definition Language&amp;nbsp;&lt;br&gt;1. create : to create a new entity&lt;br&gt;2. alter : to modify the structure&lt;br&gt;3. drop : to drop/rmove the structure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XtnB4oRw3btzMC0truvg-11" value="DML : data manipulation Language:&lt;br&gt;1. insert : to add a new record&lt;br&gt;2. update : to modify the existing record&lt;br&gt;3. delete : to delte the existing record." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="630" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Gan8md0aRGKYYy-d7oTN-1" value="DQL : data &amp;nbsp;query language.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="510" y="910" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Gan8md0aRGKYYy-d7oTN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Gan8md0aRGKYYy-d7oTN-2" target="Gan8md0aRGKYYy-d7oTN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gan8md0aRGKYYy-d7oTN-2" value="select : &amp;nbsp;select * from employee; &amp;nbsp;====&amp;gt; it will find out the employee table ===&amp;gt; it will load the content of this employee table into the memory and we can perform the operations on the &lt;b&gt;buffered table&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1040" width="410" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Gan8md0aRGKYYy-d7oTN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Gan8md0aRGKYYy-d7oTN-3" target="Gan8md0aRGKYYy-d7oTN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gan8md0aRGKYYy-d7oTN-3" value="if we will do any changes / manipulations using select statement those won&#39;t be affected to your actual table." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1380" width="295" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Gan8md0aRGKYYy-d7oTN-5" value="bcoz the manipulations are done on the buffered table." style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1388.75" width="162.5" height="107.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UP5DuEdOkteicTbiSee5" name="Page-2">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HtCvWQ3bl-5wyvBaDdQW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HtCvWQ3bl-5wyvBaDdQW-1" target="HtCvWQ3bl-5wyvBaDdQW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HtCvWQ3bl-5wyvBaDdQW-1" value="HTML" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HtCvWQ3bl-5wyvBaDdQW-2" value="component.ts/ controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HtCvWQ3bl-5wyvBaDdQW-4" value="register object&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HtCvWQ3bl-5wyvBaDdQW-5" value="to and from work&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HtCvWQ3bl-5wyvBaDdQW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HtCvWQ3bl-5wyvBaDdQW-6" target="HtCvWQ3bl-5wyvBaDdQW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HtCvWQ3bl-5wyvBaDdQW-6" value="2 way communication." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HtCvWQ3bl-5wyvBaDdQW-7" value="ngModel" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HtCvWQ3bl-5wyvBaDdQW-9" value="ngSubmit: its a directive&lt;br&gt;directives are used to improve the functionality of existing html/angular based elements/components.&lt;br&gt;ngModel :&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="600" width="580" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
