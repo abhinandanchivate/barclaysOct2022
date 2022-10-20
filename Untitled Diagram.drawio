@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T15:43:19.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="xvuw3XussCmlMpoBExsu" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-20T13:42:10.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="4tTCBHtKmNUDLTyEUJKS" version="20.4.1" type="github" pages="6">
   <diagram id="uCJE7dai_QeuuzSBfci7" name="Page-1">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,6 +86,146 @@
         </mxCell>
         <mxCell id="HtCvWQ3bl-5wyvBaDdQW-9" value="ngSubmit: its a directive&lt;br&gt;directives are used to improve the functionality of existing html/angular based elements/components.&lt;br&gt;ngModel :&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="110" y="600" width="580" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XLmgPZadojHEraCnuCKH" name="Page-3">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5FSKh4FSAGPYDOLC9M7o-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="5FSKh4FSAGPYDOLC9M7o-1" target="5FSKh4FSAGPYDOLC9M7o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5FSKh4FSAGPYDOLC9M7o-1" value="Employee Class&lt;br&gt;id,&lt;br&gt;first name&lt;br&gt;lastname&lt;br&gt;salary&lt;br&gt;Location&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="5FSKh4FSAGPYDOLC9M7o-2" value="Manager:&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="500" width="210" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="5FSKh4FSAGPYDOLC9M7o-4" value="is a relationship" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5FSKh4FSAGPYDOLC9M7o-5" value="has a relationship" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="500" y="900" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5FSKh4FSAGPYDOLC9M7o-6" value="CAR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="210" y="880" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5FSKh4FSAGPYDOLC9M7o-7" value="AC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1040" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5FSKh4FSAGPYDOLC9M7o-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="5FSKh4FSAGPYDOLC9M7o-8" target="5FSKh4FSAGPYDOLC9M7o-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5FSKh4FSAGPYDOLC9M7o-8" value="music systemobj" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5FSKh4FSAGPYDOLC9M7o-9" value="MSClass" style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1037.5" width="210" height="115" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QsdmhZo4gPl0aNAj4HQT" name="Page-4">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="rApIdoZ3b-ipqDNc2sQt-1" target="rApIdoZ3b-ipqDNc2sQt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-1" value="Main class(which is your entry point &amp;nbsp;of our application.&lt;br&gt;&lt;br&gt;we will get input and we will share the response" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="rApIdoZ3b-ipqDNc2sQt-2" target="rApIdoZ3b-ipqDNc2sQt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="rApIdoZ3b-ipqDNc2sQt-2" target="rApIdoZ3b-ipqDNc2sQt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-2" value="Service Layer" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-4" value="Controller(web application / rest application)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-5" value="all business validations&lt;br&gt;it will have verification by 3rd party apps.&lt;br&gt;etc." style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="320" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="rApIdoZ3b-ipqDNc2sQt-7" target="rApIdoZ3b-ipqDNc2sQt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="rApIdoZ3b-ipqDNc2sQt-7" target="rApIdoZ3b-ipqDNc2sQt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-7" value="repository Layer" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-9" value="store your details into the DB / all db related functionalites&amp;nbsp;&lt;br&gt;will be handled by repo layer." style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="510" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-11" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="470" y="680" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-13" value="Layered Architecture." style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rApIdoZ3b-ipqDNc2sQt-14" value="DTO : data transfer Object" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="230" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1hcMRl1f-YAFpHk66q61" name="Page-5">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yqarq_p_-IvoqqOevWqT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="yqarq_p_-IvoqqOevWqT-1" target="yqarq_p_-IvoqqOevWqT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqarq_p_-IvoqqOevWqT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="yqarq_p_-IvoqqOevWqT-1" target="yqarq_p_-IvoqqOevWqT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqarq_p_-IvoqqOevWqT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="yqarq_p_-IvoqqOevWqT-1" target="yqarq_p_-IvoqqOevWqT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqarq_p_-IvoqqOevWqT-1" value="interface" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqarq_p_-IvoqqOevWqT-2" value="Oracle" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqarq_p_-IvoqqOevWqT-4" value="MySQL" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqarq_p_-IvoqqOevWqT-6" value="insert&lt;br&gt;update&lt;br&gt;delte&lt;br&gt;retrieve the data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="136" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yqarq_p_-IvoqqOevWqT-7" value="declare the methods ---&amp;gt; contracts&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqarq_p_-IvoqqOevWqT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="yqarq_p_-IvoqqOevWqT-9" target="yqarq_p_-IvoqqOevWqT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqarq_p_-IvoqqOevWqT-9" value="get method" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="362" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqarq_p_-IvoqqOevWqT-10" value="will retrieve the employee &amp;nbsp;details from DB.&lt;br&gt;then&amp;nbsp;&lt;br&gt;text ---&amp;gt; object --&amp;gt; employee object---&amp;gt; will give us interns of Optional (it will wrap our Employee object in optional ---&amp;gt; to avoid the NULLPOINTEREXCEPTION" style="whiteSpace=wrap;html=1;fontSize=21;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="740" width="390" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="I5BUn-1HGM8JEUBZvlqh" name="Page-6">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BbftVFyJMcZlEdsIjdFU-1" value="1. How to create the singleton DP ?&lt;br&gt;1. we should have only one private(can be accessible only inside the class) constructor(are used to initialise the object).&amp;nbsp;&lt;br&gt;2. &amp;nbsp;we have to define the static method getInstance():&amp;nbsp;&lt;br&gt;3.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="570" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
